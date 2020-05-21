@@ -45,4 +45,4 @@ gem 'dotenv-rails'
 gem 'line-bot-api'
 
 # ③ Amazon API
-gem 'vacuum'
+gem 'rakuten_web_service'
